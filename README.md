@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://i59.vercel.app)
 <h1 align="center">Hi 👋, I'm Indudhara S</h1>
 <h3 align="center">A dedicated software enthusiast from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://plus.unsplash.com/premium_photo-1681457330049-dcdb2ac363fe?q=80&w=1657&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 - 👨‍💻 All of my projects are available at [i59.vercel.app](i59.vercel.app)
 
