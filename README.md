@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://unsplash.com/photos/a-computer-keyboard-sitting-on-top-of-a-wooden-desk-Wyc7vHXfCDQ))]https://indudharas.io)
+[![MasterHead]([https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]https://indudharas.io)
 <h1 align="center">Hi 👋, I'm Indudhara S</h1>
 <h3 align="center">A dedicated software enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://plus.unsplash.com/premium_photo-1681457330049-dcdb2ac363fe?q=80&w=1657&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
